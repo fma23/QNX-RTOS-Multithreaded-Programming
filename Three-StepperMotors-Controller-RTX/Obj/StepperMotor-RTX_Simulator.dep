@@ -1,0 +1,35 @@
+Dependencies for Project 'StepperMotor-RTX', Target 'Simulator': (DO NOT MODIFY !)
+F (.\LCD.c)(0x53208DDA)(--thumb -c --cpu ARM7TDMI -D__RTX -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="517" -D__RTGT_UART-o .\obj\lcd.o --depend .\obj\lcd.d)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x5678E321)
+I (C:\Keil_v5\ARM\Inc\Philips\LPC23xx.H)(0x56A2E49C)
+I (LCD.h)(0x53208DDA)
+F (..\Stepper\motor.h)(0x56B6EBFA)()
+F (.\Serial_Interrupt.c)(0x56A71A61)(--thumb -c --cpu ARM7TDMI -D__RTX -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="517" -D__RTGT_UART-o .\obj\serial_interrupt.o --depend .\obj\serial_interrupt.d)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x5678E321)
+I (C:\Keil_v5\ARM\Inc\Philips\LPC23xx.H)(0x56A2E49C)
+I (LCD.h)(0x53208DDA)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x5680D1A1)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55DBFE66)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x56A7078E)
+F (.\SpeedControl.c)(0x56C41D61)(--thumb -c --cpu ARM7TDMI -D__RTX -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="517" -D__RTGT_UART-o .\obj\speedcontrol.o --depend .\obj\speedcontrol.d)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x5678E321)
+I (C:\Keil_v5\ARM\Inc\Philips\LPC23xx.H)(0x56A2E49C)
+I (LCD.h)(0x53208DDA)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x5680D1A1)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55DBFE66)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x56A7078E)
+I (const.h)(0x56C40F67)
+F (.\motor.c)(0x56C6A8AC)(--thumb -c --cpu ARM7TDMI -D__RTX -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="517" -D__RTGT_UART-o .\obj\motor.o --depend .\obj\motor.d)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x5678E321)
+I (C:\Keil_v5\ARM\Inc\Philips\LPC23xx.H)(0x56A2E49C)
+I (LCD.h)(0x53208DDA)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x5680D1A1)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55DBFE66)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x56A7078E)
+I (motor.h)(0x56C5722F)
+F (.\RTX_Config.c)(0x56C6A3CC)(--thumb -c --cpu ARM7TDMI -D__RTX -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="517" -D__RTGT_UART-o .\obj\rtx_config.o --depend .\obj\rtx_config.d)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x5678E321)
+I (C:\Keil_v5\ARM\Inc\Philips\LPC23xx.H)(0x56A2E49C)
+I (C:\Keil_v5\ARM\RV31\INC\RTX_lib.c)(0x56A81580)
+F (.\LPC2300.s)(0x56A2E735)(--cpu ARM7TDMI --pd "__RTX SETA 1" --pd "__EVAL SETA 1" -g --16 --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips--pd "__UVISION_VERSION SETA 517"--list .\lst\lpc2300.lst --xref -o .\obj\lpc2300.o --depend .\obj\lpc2300.d)
+F (Abstract.txt)(0x53208DDA)()

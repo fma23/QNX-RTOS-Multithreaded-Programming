@@ -1,0 +1,31 @@
+Dependencies for Project 'MailBox-RTX', Target 'Simulator': (DO NOT MODIFY !)
+F (.\ADC.c)(0x56C80BCF)(--thumb -c --cpu ARM7TDMI -D__RTX -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="517" -D__RTGT_UART-o .\obj\adc.o --depend .\obj\adc.d)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x5678E321)
+I (C:\Keil_v5\ARM\Inc\Philips\LPC23xx.H)(0x56A2E49C)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x5680D1A1)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55DBFE66)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x56A7078E)
+F (.\DAC.c)(0x56C80C1B)(--thumb -c --cpu ARM7TDMI -D__RTX -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="517" -D__RTGT_UART-o .\obj\dac.o --depend .\obj\dac.d)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x5678E321)
+I (C:\Keil_v5\ARM\Inc\Philips\LPC23xx.H)(0x56A2E49C)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x5680D1A1)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55DBFE66)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x56A7078E)
+F (.\main.c)(0x56C80D6D)(--thumb -c --cpu ARM7TDMI -D__RTX -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="517" -D__RTGT_UART-o .\obj\main.o --depend .\obj\main.d)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x5678E321)
+I (C:\Keil_v5\ARM\Inc\Philips\LPC23xx.H)(0x56A2E49C)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x5680D1A1)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55DBFE66)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x56A7078E)
+F (.\Serial.c)(0x56C80C54)(--thumb -c --cpu ARM7TDMI -D__RTX -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="517" -D__RTGT_UART-o .\obj\serial.o --depend .\obj\serial.d)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x5678E321)
+I (C:\Keil_v5\ARM\Inc\Philips\LPC23xx.H)(0x56A2E49C)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x5680D1A1)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55DBFE66)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x56A7078E)
+F (.\RTX_Config.c)(0x56ADAEF1)(--thumb -c --cpu ARM7TDMI -D__RTX -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="517" -D__RTGT_UART-o .\obj\rtx_config.o --depend .\obj\rtx_config.d)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x5678E321)
+I (C:\Keil_v5\ARM\Inc\Philips\LPC23xx.H)(0x56A2E49C)
+I (C:\Keil_v5\ARM\RV31\INC\RTX_lib.c)(0x56A81580)
+F (.\LPC2300.s)(0x56A2E735)(--cpu ARM7TDMI --pd "__RTX SETA 1" --pd "__EVAL SETA 1" -g --16 --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips--pd "__UVISION_VERSION SETA 517"--list .\lst\lpc2300.lst --xref -o .\obj\lpc2300.o --depend .\obj\lpc2300.d)
+F (Abstract.txt)(0x56C8072F)()

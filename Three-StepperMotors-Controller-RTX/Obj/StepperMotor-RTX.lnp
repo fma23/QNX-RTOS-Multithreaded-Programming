@@ -1,0 +1,11 @@
+--cpu ARM7TDMI
+".\obj\speedcontrol.o"
+".\obj\motor.o"
+".\obj\serial.o"
+".\obj\rtx_config.o"
+".\obj\lpc2300.o"
+C:\Keil_v5\ARM\RV31\LIB\RTX_ARM_L.LIB
+--library_type=microlib --strict --scatter ".\Obj\StepperMotor-RTX.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Lst\StepperMotor-RTX.map" -o .\Obj\StepperMotor-RTX.axf

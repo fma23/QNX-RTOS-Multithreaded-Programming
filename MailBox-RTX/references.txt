@@ -1,0 +1,16 @@
+ *  \param step  Number of steps to move (pos - CW, neg - CCW).
+ *  \param accel  Accelration to use, in 0.01*rad/sec^2.
+ *  \param decel  Decelration to use, in 0.01*rad/sec^2.
+ *  \param speed  Max speed, in 0.01*rad/sec.
+
+
+
+  //! Number of steps before we must start deceleration (if accel does not hit max speed).
+ ccel_lim;
+  
+ // Find out after how many steps does the speed hit the max speed limit.
+ // max_s_lim = speed^2 / (2*alpha*accel)
+ 
+   // Find out after how many steps we must start deceleration.
+   // n1 = (n1+n2)decel / (accel + decel)
+   accel_lim = ((long)step*decel) / (accel+decel);

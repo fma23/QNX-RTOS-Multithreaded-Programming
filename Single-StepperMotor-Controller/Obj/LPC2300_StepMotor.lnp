@@ -1,0 +1,8 @@
+--cpu ARM7TDMI
+".\obj\lpc2300.o"
+".\obj\main.o"
+".\obj\retarget.o"
+--library_type=microlib --strict --scatter ".\Obj\LPC2300_StepMotor.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Lst\LPC2300_StepMotor.map" -o .\Obj\LPC2300_StepMotor.axf

@@ -1,0 +1,12 @@
+--cpu ARM7TDMI
+".\obj\adc.o"
+".\obj\dac.o"
+".\obj\main.o"
+".\obj\serial.o"
+".\obj\rtx_config.o"
+".\obj\lpc2300.o"
+C:\Keil_v5\ARM\RV31\LIB\RTX_ARM_L.LIB
+--library_type=microlib --strict --scatter ".\Obj\MailBox.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Lst\MailBox.map" -o .\Obj\MailBox.axf
