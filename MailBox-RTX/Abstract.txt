@@ -1,7 +1,0 @@
-This example demonstrate the use of message passing/ mailbox use in Keil RTX RTOS
-
-Keil MCB2300 evaluation board with ULINK debugger
-Application is loaded to internal Flash.
-
-
-
