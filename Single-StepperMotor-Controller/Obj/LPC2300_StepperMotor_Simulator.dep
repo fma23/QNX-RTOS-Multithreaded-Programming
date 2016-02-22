@@ -1,9 +1,0 @@
-Dependencies for Project 'LPC2300_StepperMotor', Target 'Simulator': (DO NOT MODIFY !)
-F (.\LPC2300.s)(0x568B0C6C)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips--pd "__UVISION_VERSION SETA 517"-o .\obj\lpc2300.o --depend .\obj\lpc2300.d)
-F (.\main.c)(0x56C7B905)(-c --cpu ARM7TDMI -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="517"-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
-I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55DBFE66)
-I (C:\Keil_v5\ARM\Inc\Philips\LPC23xx.H)(0x56A2E49C)
-I (LCD.h)(0x56776AF5)
-I (motor.h)(0x568611DE)
-I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x5680D1A1)
-F (.\Abstract.txt)(0x56776AF5)()
