@@ -1,8 +1,0 @@
-﻿Build started 12/22/2015 12:37:13 AM.
-     1>Project "C:\Keil_v5\ARM\Boards\Keil\MCB2300\RTX_Blinky_Stepper\StepperMotor.vcxproj" on node 2 (Rebuild target(s)).
-     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V120\Platforms\ARM\PlatformToolsets\v120\Toolset.targets(36,5): error MSB8022: Compiling Desktop applications for the ARM platform is not supported.
-     1>Done Building Project "C:\Keil_v5\ARM\Boards\Keil\MCB2300\RTX_Blinky_Stepper\StepperMotor.vcxproj" (Rebuild target(s)) -- FAILED.
-
-Build FAILED.
-
-Time Elapsed 00:00:00.07
